@@ -1,0 +1,19 @@
+{
+  "name": "@ilearn-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "ilearn-cli-dev utils",
+  "author": "songsai <songsai1>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  }, 
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/utils.test.js"
+  }
+}
