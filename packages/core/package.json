@@ -1,6 +1,6 @@
 {
   "name": "@ilearn-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ilearn-cli-dev core",
   "author": "songsai <songsai1>",
   "homepage": "",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "node ./__tests__/core.test.js"
-  },
-  "dependencies": {
   }
 }
